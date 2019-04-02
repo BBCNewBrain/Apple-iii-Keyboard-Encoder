@@ -1,13 +1,9 @@
-/* @file MultiKey.ino
+/* @file AppleiiiScanKBD.ino
 || @version 1.0
-|| @author Mark Stanley
-|| @contact mstanley@technologist.com
+|| @author Stephen Gillespie
 ||
 || @description
-|| | The latest version, 3.0, of the keypad library supports up to 10
-|| | active keys all being pressed at the same time. This sketch is an
-|| | example of how you can get multiple key presses from a keypad or
-|| | keyboard.
+|| | This emulated the Apple iii keyboard encoder
 || #
 // pin connections
 // arduino pin 22 -> H14 Encoder socket 7 (ASCII 7 - Always set)
