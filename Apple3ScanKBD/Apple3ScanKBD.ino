@@ -1,9 +1,10 @@
 /* @file AppleiiiScanKBD.ino
 || @version 1.0
-|| @author Stephen Gillespie
+|| @author Modified from an some Apple ii code but can't remember where so please let me know if it was you. Modified and added to by Stephen Gillespie
 ||
 || @description
 || | This emulated the Apple iii keyboard encoder
+|| Pressing the \ Char 55 types in the ADTPro code.
 || #
 // pin connections
 // arduino pin 22 -> H14 Encoder socket 7 (ASCII 7 - Always set)
